@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -757,3 +756,295 @@
                         <ul class="timeline-actions">
                             <li>Sessions de travail de 45 min sans distraction</li>
                             <li>Introduis une activité créative (dessin, musique, écriture)</li>
+                            <li>Pratique la gratitude : 3 choses positives chaque soir</li>
+                            <li>Remplace une habitude de consommation passive par une active</li>
+                            <li>Établis des connexions sociales réelles (appels, rencontres)</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-marker">S4</div>
+                    <div class="timeline-content">
+                        <h4 class="timeline-title">🚀 Optimisation et pérennisation</h4>
+                        <p class="timeline-description">Ancre définitivement tes nouvelles habitudes</p>
+                        <ul class="timeline-actions">
+                            <li>Sessions de travail de 60-90 min en flow profond</li>
+                            <li>Définis tes objectifs long terme et ton système de récompenses</li>
+                            <li>Crée un rituel matinal et vespéral solide</li>
+                            <li>Planifie tes "cheat days" de façon contrôlée</li>
+                            <li>Évalue tes progrès et ajuste le protocole</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="cta-section">
+                <h3 style="margin-bottom: 1rem; color: #2d2d2d;">Suivi quotidien recommandé</h3>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-number">🌅</div>
+                        <div class="stat-label">Routine matinale<br>20 min</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">🎯</div>
+                        <div class="stat-label">Focus session<br>25-90 min</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">🚶</div>
+                        <div class="stat-label">Activité physique<br>30 min</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">🌙</div>
+                        <div class="stat-label">Routine vespérale<br>15 min</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Slide Techniques Avancées -->
+        <section class="slide" id="slide-avancees">
+            <h2 class="section-title">Techniques Avancées</h2>
+            <p class="section-subtitle">Stratégies neuroscientifiques pour optimiser ta dopamine</p>
+
+            <div class="feature-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🧘</div>
+                    <h4 class="feature-title">Dopamine Fasting</h4>
+                    <p class="feature-description">1 journée complète par semaine sans stimulations artificielles : pas d'écrans, de sucre, de caféine. Permet une réinitialisation profonde des récepteurs.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🎲</div>
+                    <h4 class="feature-title">Récompenses variables</h4>
+                    <p class="feature-description">Utilise l'effet de surprise. Ne te récompense pas après chaque tâche, mais de façon imprévisible pour maintenir la motivation.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">❄️</div>
+                    <h4 class="feature-title">Exposition au froid</h4>
+                    <p class="feature-description">Douches froides ou bains glacés augmentent la dopamine de 250% pendant plusieurs heures. Renforce aussi la discipline mentale.</p>
+                </div>
+            </div>
+
+            <div class="content-card">
+                <h3 style="color: #ff6b35; margin-bottom: 2rem;">🧪 Protocoles avancés</h3>
+                
+                <div class="feature-grid">
+                    <div class="feature-card">
+                        <div class="feature-icon">⏰</div>
+                        <h4 class="feature-title">Time-boxing dopaminergique</h4>
+                        <div class="feature-description">
+                            <p><strong>Principe :</strong> Alterne périodes de stimulation contrôlée et de "jeûne"</p>
+                            <ul style="text-align: left; margin-top: 1rem; padding-left: 1rem;">
+                                <li>90 min de travail intense</li>
+                                <li>20 min de break sans écran</li>
+                                <li>Répète 2-3 cycles</li>
+                                <li>1h de temps libre "autorisé"</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="feature-card">
+                        <div class="feature-icon">🎯</div>
+                        <h4 class="feature-title">Technique du "Temptation Bundling"</h4>
+                        <div class="feature-description">
+                            <p><strong>Principe :</strong> Associe une tâche ennuyeuse à quelque chose que tu aimes</p>
+                            <ul style="text-align: left; margin-top: 1rem; padding-left: 1rem;">
+                                <li>Écoute ton podcast préféré pendant le ménage</li>
+                                <li>Prends ton café uniquement en lisant</li>
+                                <li>Regarde Netflix seulement en faisant du sport</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="table-container" style="margin-top: 2rem;">
+                    <table class="modern-table">
+                        <thead>
+                            <tr>
+                                <th>Technique</th>
+                                <th>Durée</th>
+                                <th>Fréquence</th>
+                                <th>Effet sur la dopamine</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>🧘 Méditation vipassana</td>
+                                <td>10-20 min</td>
+                                <td>Quotidienne</td>
+                                <td>+65% stabilité des récepteurs</td>
+                            </tr>
+                            <tr>
+                                <td>🏃 Cardio intensité modérée</td>
+                                <td>30-45 min</td>
+                                <td>3x/semaine</td>
+                                <td>+200% production naturelle</td>
+                            </tr>
+                            <tr>
+                                <td>🎵 Écoute musicale active</td>
+                                <td>15-30 min</td>
+                                <td>Quotidienne</td>
+                                <td>+9% pic dopaminergique</td>
+                            </tr>
+                            <tr>
+                                <td>💪 Musculation progressive</td>
+                                <td>45-60 min</td>
+                                <td>3x/semaine</td>
+                                <td>+20% sensibilité long terme</td>
+                            </tr>
+                            <tr>
+                                <td>🥶 Exposition au froid</td>
+                                <td>2-4 min</td>
+                                <td>2x/semaine</td>
+                                <td>+250% pendant 2-3h</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="content-card">
+                <h3 style="color: #ff6b35; margin-bottom: 2rem;">🔬 Supplémentation naturelle</h3>
+                <div class="feature-grid">
+                    <div class="feature-card">
+                        <div class="feature-icon">🌿</div>
+                        <h4 class="feature-title">L-Tyrosine</h4>
+                        <p class="feature-description">Précurseur de la dopamine. 500-2000mg le matin à jeun. Améliore focus et motivation, surtout en cas de stress.</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon">☕</div>
+                        <h4 class="feature-title">Caféine + L-Théanine</h4>
+                        <p class="feature-description">100mg caféine + 200mg L-théanine. Synergie parfaite : énergie sans nervosité, focus prolongé.</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon">🧠</div>
+                        <h4 class="feature-title">Mucuna Pruriens</h4>
+                        <p class="feature-description">Source naturelle de L-DOPA. 300-600mg/jour. Améliore humeur et motivation de façon naturelle.</p>
+                    </div>
+                </div>
+                
+                <div style="background: linear-gradient(135deg, #fff8f4 0%, #fef5f0 100%); border-radius: 15px; padding: 1.5rem; margin-top: 2rem; border-left: 4px solid #ff9a56;">
+                    <p style="margin: 0; font-weight: 600; color: #666;"><strong>⚠️ Important :</strong> Consulte un professionnel de santé avant toute supplémentation. Ces informations sont éducatives et ne remplacent pas un avis médical.</p>
+                </div>
+            </div>
+
+            <div class="cta-section">
+                <h3 style="margin-bottom: 1rem; color: #2d2d2d;">Prêt pour la transformation ?</h3>
+                <p style="margin-bottom: 2rem; color: #666;">Commence dès aujourd'hui et observe les premiers changements en 48h</p>
+                <button class="cta-button" onclick="showSlide('accueil')">Retour à l'accueil</button>
+            </div>
+        </section>
+    </main>
+
+    <div class="progress-indicator" id="progress">
+        <span id="progress-text">1 / 6</span>
+    </div>
+
+    <script>
+        let currentSlideIndex = 0;
+        const slides = ['accueil', 'definition', 'pourquoi', 'plan', 'programme', 'avancees'];
+        
+        function showSlide(slideId) {
+            // Cacher toutes les slides
+            document.querySelectorAll('.slide').forEach(slide => {
+                slide.classList.remove('active');
+            });
+            
+            // Désactiver tous les nav-items
+            document.querySelectorAll('.nav-item').forEach(item => {
+                item.classList.remove('active');
+            });
+            
+            // Afficher la slide demandée
+            const targetSlide = document.getElementById(`slide-${slideId}`);
+            if (targetSlide) {
+                targetSlide.classList.add('active');
+                
+                // Activer le nav-item correspondant
+                const navItems = document.querySelectorAll('.nav-item');
+                const slideIndex = slides.indexOf(slideId);
+                if (navItems[slideIndex]) {
+                    navItems[slideIndex].classList.add('active');
+                }
+                
+                // Mettre à jour le compteur de progression
+                currentSlideIndex = slideIndex;
+                updateProgress();
+                
+                // Animation d'apparition
+                setTimeout(() => {
+                    targetSlide.style.opacity = '1';
+                    targetSlide.style.transform = 'translateY(0)';
+                }, 50);
+                
+                // Scroll vers le haut
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
+        }
+        
+        function updateProgress() {
+            const progressText = document.getElementById('progress-text');
+            progressText.textContent = `${currentSlideIndex + 1} / ${slides.length}`;
+        }
+        
+        // Navigation au clavier
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight' && currentSlideIndex < slides.length - 1) {
+                showSlide(slides[currentSlideIndex + 1]);
+            }
+            if (e.key === 'ArrowLeft' && currentSlideIndex > 0) {
+                showSlide(slides[currentSlideIndex - 1]);
+            }
+        });
+        
+        // Animations au scroll
+        function handleScrollAnimations() {
+            const cards = document.querySelectorAll('.feature-card, .content-card, .timeline-item');
+            
+            cards.forEach(card => {
+                const rect = card.getBoundingClientRect();
+                const isVisible = rect.top < window.innerHeight - 100;
+                
+                if (isVisible && !card.classList.contains('fade-in')) {
+                    card.classList.add('fade-in');
+                }
+            });
+        }
+        
+        window.addEventListener('scroll', handleScrollAnimations);
+        
+        // Animation d'entrée au chargement
+        window.addEventListener('load', () => {
+            document.body.style.opacity = '1';
+            handleScrollAnimations();
+        });
+        
+        // Initialisation
+        document.addEventListener('DOMContentLoaded', () => {
+            showSlide('accueil');
+            updateProgress();
+            handleScrollAnimations();
+        });
+        
+        // Menu mobile (pour les futures améliorations)
+        function toggleMobileMenu() {
+            const navMenu = document.querySelector('.nav-menu');
+            navMenu.classList.toggle('mobile-active');
+        }
+        
+        // Smooth scroll pour les liens internes
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>
